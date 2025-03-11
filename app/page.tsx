@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbarpage from "./Navbar/page";
-import Contactpage from "./Contact/page";
+import Navbarpage from "../components/Navbar/page";
+import Contactpage from "../components/Contact/page";
 
 const page = () => {
     return (
